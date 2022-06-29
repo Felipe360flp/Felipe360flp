@@ -12,6 +12,6 @@
 
 <div>
   <a href="https://github.com/wheslleyrimar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe360flp&layout=compact&langs_count=7&theme=gray"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe360flp&show_icons=true&theme=gray&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe360flp&layout=compact&langs_count=7&theme=grey"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe360flp&show_icons=true&theme=grey&include_all_commits=true&count_private=true"/>
 </div>
